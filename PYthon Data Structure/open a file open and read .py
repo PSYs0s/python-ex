@@ -1,0 +1,5 @@
+fhand=open('words.txt')
+inp=fhand.read()
+length=len(inp)
+print(length)
+print(inp[500: ])

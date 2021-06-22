@@ -1,0 +1,6 @@
+inp1=input()
+inp2=input()
+a=int(inp1)
+b=int(inp2)
+print(a//b)
+print(a/b)
